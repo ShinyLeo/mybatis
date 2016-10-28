@@ -1,0 +1,6 @@
+/work/github/mybatis-generator/mybatis/generator_plugin/src/main/java/com/github/shinyleo/mybatis/plugin/BatchInsertPlugin.java
+/work/github/mybatis-generator/mybatis/generator_plugin/src/main/java/com/github/shinyleo/mybatis/plugin/PaginationPlugin.java
+/work/github/mybatis-generator/mybatis/generator_plugin/src/main/java/com/github/shinyleo/mybatis/plugin/LombokAnnotationPlugin.java
+/work/github/mybatis-generator/mybatis/generator_plugin/src/main/java/com/github/shinyleo/mybatis/plugin/SliceTablePlugin.java
+/work/github/mybatis-generator/mybatis/generator_plugin/src/main/java/com/github/shinyleo/mybatis/plugin/SumSelectivePlugin.java
+/work/github/mybatis-generator/mybatis/generator_plugin/src/main/java/com/github/shinyleo/mybatis/plugin/utils/PluginUtils.java

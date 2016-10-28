@@ -1,0 +1,6 @@
+com/github/shinyleo/mybatis/plugin/SliceTablePlugin.class
+com/github/shinyleo/mybatis/plugin/PaginationPlugin.class
+com/github/shinyleo/mybatis/plugin/SumSelectivePlugin.class
+com/github/shinyleo/mybatis/plugin/utils/PluginUtils.class
+com/github/shinyleo/mybatis/plugin/BatchInsertPlugin.class
+com/github/shinyleo/mybatis/plugin/LombokAnnotationPlugin.class
